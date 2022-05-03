@@ -1,4 +1,8 @@
 ## Hello! I am Carlindo Junior welcome to my repositories:
+I'm 35 years old and currently changing areas, since the beginning of september 2020 studying programming. I took the programming course to be Full Stack Jr with Digital House which ends in May 2023.
+
+I'm a front end developer, building projects with Javascript/( React, Sass, Styled Components).
+
  <div>
   <a href="https://github.com/juniorvilas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorvilas&show_icons=true&theme=dark&include_all_commits=true&title_color=3fb950"/>
