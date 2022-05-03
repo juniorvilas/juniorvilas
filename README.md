@@ -1,8 +1,8 @@
 ## Hello! I am Carlindo Junior welcome to my repositories:
  <div>
   <a href="https://github.com/juniorvilas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorvilas&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorvilas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorvilas&show_icons=true&theme=dark&include_all_commits=true&title_color=3fb950"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorvilas&layout=compact&langs_count=7&theme=dark&title_color=3fb950"/>
 </div>
  <hr></hr>
  
