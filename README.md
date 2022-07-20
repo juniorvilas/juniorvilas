@@ -29,7 +29,7 @@ I'm a Front End Developer, building projects with Javascript/( React, Sass, Styl
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>  
   <a href="https://nextjs.org/" >
-   <img align="center" alt="NextJs" height="30" width="40" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+   <img align="center" alt="NextJs" height="30" width="30" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
   </a>  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" >
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
