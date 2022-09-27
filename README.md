@@ -41,7 +41,10 @@ I finished the first year of the DH course with a full stack jr and currently I 
   </a>  
   <a href="https://sass-lang.com/" >
    <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  </a>  
+  </a>
+ <a href="https://styled-components.com/" >
+   <img align="center" alt="Styled components" height="30" width="40" src="https://styled-components.com/logo.png">
+  </a> 
   <a href="https://getbootstrap.com/" >
    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   </a>  
