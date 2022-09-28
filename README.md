@@ -57,6 +57,12 @@ I finished the first year of the DH course with a full stack jr and currently I 
   <a href="https://about.gitlab.com/" >
    <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   </a>
+  <a href="https://www.selenium.dev/documentation/" >
+   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  </a>
+  <a href="https://www.jenkins.io/" >
+   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  </a>
   
 </div>
   <hr></hr>
