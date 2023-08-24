@@ -23,6 +23,9 @@ I just finished the Certified Tech Developer course as a Full Stack with a Front
   </a>
   <a href="https://www.typescriptlang.org/" >
    <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+  <a href="https://nodejs.org/en" >
+   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   </a>  
   <a href="https://redux.js.org/" >
    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
@@ -42,8 +45,11 @@ I just finished the Certified Tech Developer course as a Full Stack with a Front
   <a href="https://sass-lang.com/" >
    <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </a>
- <a href="https://styled-components.com/" >
+  <a href="https://styled-components.com/" >
    <img align="center" alt="Styled components" height="30" width="40" src="https://styled-components.com/logo.png">
+  </a>
+  <a href="https://tailwindcss.com/" >
+   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg">
   </a> 
   <a href="https://getbootstrap.com/" >
    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
