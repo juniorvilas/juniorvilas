@@ -1,7 +1,7 @@
 ## Hello! I am Carlindo Junior welcome to my repositories:
 I'm Fullstack Developer, building projects with Javascript/(React, Next, TypeScript, Styled Components, NodeJs, .Net).
 
-I am currently a Front-End Developer at ArloesiTech.
+I am currently a Fullstack Developer at ArloesiTech.
 
 I just finished the Certified Tech Developer course as a Full Stack with a Frontend specialization.
 <hr></hr>
