@@ -1,5 +1,5 @@
 ## Hello! I am Carlindo Junior welcome to my repositories:
-I'm Fullstack Developer, building projects with Javascript/(React, Next, TypeScript, Styled Components, NodeJs, Nest).
+I'm Fullstack Developer, building projects with Javascript/(React, Next, TypeScript, Styled Components, Tailwind, NodeJs, Nest).
 
 I am currently a Fullstack Developer at Colab.
 
