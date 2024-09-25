@@ -78,7 +78,7 @@ I am currently a Fullstack Developer at Colab.
   <a href = "mailto:log_junior@hotmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5571991713860">
+  <a href="https://api.whatsapp.com/send?phone=5571996643860">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/junior_vilas" target="_blank">
