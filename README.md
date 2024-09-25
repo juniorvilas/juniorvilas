@@ -84,7 +84,10 @@ I am currently a Fullstack Developer at Colab.
   <a href="https://instagram.com/junior_vilas" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
+</div>
+  <hr></hr>
+<div> 
  
-
+<p>You will notice that my contributions here on github have been interrupted since March 2024 because the current company I am at uses Bitbucket and not github.</p>
  
 </div>
