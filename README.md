@@ -35,8 +35,8 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gitlab,bitbucket,jest,figma" />
 </p>
 
-**AWS:** Lambda · Step Functions · EventBridge · SQS · S3 · Bedrock  
-**AI tools:** Kiro · Claude · Amazon Bedrock
+**AWS:** Lambda · Step Functions · EventBridge · S3 · Bedrock  
+**AI tools:** Kiro · Claude
 
 ### 📌 Featured projects
 
