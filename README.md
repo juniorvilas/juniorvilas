@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carlindo Junior 👋</h1>
-<h3 align="center">Mid-Level Full Stack Developer · Node.js · NestJS · React · Next.js · AWS</h3>
+<h3 align="center">Full Stack Developer · Node.js · NestJS · React · Next.js · AWS</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlindo-junior/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
